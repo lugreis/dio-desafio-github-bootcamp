@@ -2,5 +2,5 @@
 Desafio de projeto sobre Git/Github
 
 ## Links Úteis
-[Comandos úteis do GIT] (https://gist.github.com/leocomelli/2545add34e4fec21ec16)
-[Sintaxe Markdown] (https://markdown.net.br/sintaxe-basica/)
+[Comandos úteis do GIT](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+[Sintaxe Markdown](https://markdown.net.br/sintaxe-basica/)
